@@ -36,8 +36,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -69,7 +69,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Paper2Gal Support',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -83,7 +83,7 @@ const config = {
           },
           
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/fangbm/p2g_support_test',
             label: 'GitHub',
             position: 'right',
           },
@@ -105,16 +105,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'WeChat',
+                href: '',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/fKubEQh6f',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Telegram',
+                href: '',
               },
             ],
           },
@@ -124,7 +124,7 @@ const config = {
               
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/fangbm/p2g_support_test',
               },
             ],
           },
