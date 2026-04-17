@@ -105,8 +105,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'WeChat',
-                href: 'skip',
+                label: 'Website',
+                href: 'https://paper2gal.com',
               },
               {
                 label: 'Discord',
@@ -114,7 +114,7 @@ const config = {
               },
               {
                 label: 'Telegram',
-                href: 'skip',
+                href: 'https:c//t.me/gpaper2galgame',
               },
             ],
           },
