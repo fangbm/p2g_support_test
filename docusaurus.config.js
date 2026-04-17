@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'WeChat',
-                href: '',
+                href: 'skip',
               },
               {
                 label: 'Discord',
@@ -114,7 +114,7 @@ const config = {
               },
               {
                 label: 'Telegram',
-                href: '',
+                href: 'skip',
               },
             ],
           },
