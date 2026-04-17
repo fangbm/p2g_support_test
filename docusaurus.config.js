@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/fangbm/p2g_support_test/doc'
+            'https://github.com/fangbm/p2g_support_test/docs/'
         },
         blog: false,
         theme: {
